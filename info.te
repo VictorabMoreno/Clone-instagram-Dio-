@@ -1,0 +1,9 @@
+git init = Iniciar repositório local
+git add = Criação de novo ponto na história
+git commit -m "" = insere o novo ponto na história com uma descrição
+git log = Mostra todos os pontos criados na história
+git status = Mostra o status do meu projeto ( arquivos que não foram inseridos no repositório, que não foram atualizados e outros. )
+git show = Mostra qualquer ponto na história. Apenas é necessário copiar o código do commit
+git show ( apenas ) =  Mostra o último ponto na história
+git branch (nome da branch) = criar uma branch, linha nova da história
+git checkout (nome da branch) = faz com que eu troque a branch de desenvolvimento
